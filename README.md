@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1lXY_Wlg)
 Capstone Project Proposal:
 
-The Amazon data set is a free streaming dataset which has several GB of data, hence was selected for the capstone
+The Amazon data set is a free streaming dataset which has several GB of data, hence was selected for the capstone.
 The technologies were mostly selected for learning purposes.
 Steps of the project:
 1.	Extract real time Amazon data from https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-amazon-data
