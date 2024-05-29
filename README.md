@@ -7,7 +7,7 @@ Steps of the project:
 1.	Extract real time Amazon data from https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-amazon-data
 2.	Load data into AWS S3
 3.	Use Kafka to stream data from S3 to dbt
-4.	Transform using Spark 
+4.	Transform data using Spark 
 5.	Load transformed data to S3
 6.	Create Tableau Dashboard
 7.	Orchestrate with Airflow in Docker
