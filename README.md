@@ -26,6 +26,15 @@ Live tableau dashboard that refreshes on a daily cadence and displays
 5.	new products added under each category etc.
 
 
+Update 1/7/2024
+
+I accidentally deleted my scripts from EC2 while I attempted to upload scripts from EC2 to my capstone Github repository. I had it saved it in my private Github repository, so sharing the link below. I am not attempting to copy this to capstone repository for fear of deleting files again. Let me know what access rights you need to view my project. https://github.com/DeeptiVarghese/ubuntu
+
+Sharing the QuickSight dashboard as well. https://us-west-2.quicksight.aws.amazon.com/sn/analyses/97f89226-142b-4fe4-a074-68a9dcbd4f93
+
+Let me know what access right/keys I should provide so that TA has access to my project and can view it
+
+
  
 
 
